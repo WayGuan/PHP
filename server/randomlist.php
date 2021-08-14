@@ -16,3 +16,4 @@ for ($i=0; $i<$num; $i++) {
 
 // echo into the response
 echo json_encode($result);
+?>
